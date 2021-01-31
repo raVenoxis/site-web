@@ -1,0 +1,104 @@
+.container { display:flex;
+             border: 1px solid gray;
+text-align:space-around;
+justify-content:space-around;
+margin: auto;
+
+}
+
+
+.item {
+font-family: 'Lato', sans-serif;
+background-color:white;
+font-size: 5px;
+padding-top: 5pw;
+}
+
+
+
+body{ background-color:white;
+ }
+
+
+.text {font-family: 'Oswald', sans-serif;
+}
+
+.flex1 { font-family: 'Open Sans', sans-serif;
+font-size:5px;
+color:white;
+background-color:black;
+padding-top: 5px;
+}
+
+.container-1{ display:flex;
+text-align:space-around;
+justify-content:space-around;}
+
+.amusant {width: 345px;
+height: 200px;
+z-index: 1;
+text-align: center;
+display: block;
+margin-right: auto;
+margin-left : auto;}
+
+
+
+.rave-clan {background-color:black;
+margin:-18px;
+text-align:center;}
+
+
+.b{color:white;
+text-align:center;
+font-family: 'Open Sans', sans-serif;
+s}
+
+
+
+.cc{background-color:brown;
+margin:-38px auto -15px auto;
+text-align:center;}
+
+
+
+
+
+.ptdr {
+    display: inline-block;
+    position: absolute;
+}
+.ptdr .a {font-family:'roboto',sans s�rif;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    margin: -350px;
+    left: 100px;
+    right: 100px;
+    top: 350px;
+    color: brown;
+  
+}
+
+.cool {text-align:center;
+      font-family:'lato',sans s�rif;}
+.soul {display:flex;
+justify-content:center;}
+
+
+
+.container-3 {
+             border: solid;
+background-color:black;}
+.container-4 {
+             border: solid;
+background-color:black;
+}
+
+
+
+.item-3 {color:white;
+diplay:flex;
+justify-content:space-around;
+font-family:'lato',sans s�rif;}
+
